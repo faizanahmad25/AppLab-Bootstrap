@@ -1,0 +1,110 @@
+body{
+    font-weight: 400;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-weight: 800px;
+    font-family:bold;
+}
+
+#hero{
+    background: url(images/bbbn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-text{
+    padding-top: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.mobile-png img{
+    float: right;
+    margin-top: 40px;
+}
+
+.img-area{
+    margin-top: 50px;
+
+}
+
+.headarea{
+    padding-top:80px;
+    padding-bottom: 30px;
+}
+
+#featurelist .singlefeature{
+    margin-bottom:10px;
+}
+
+.icon{
+    font-size: 3rem;
+}
+
+#smartarea .head{
+    margin-top: 70px;
+    padding-right: 40px;
+    
+}
+
+#smartarea .icon2{
+    margin-top: 80px;
+}
+
+#smartarea .designtext{
+    margin-top:160px;
+}
+
+
+.card{
+    width: inherit;    
+    margin-bottom: 30px;
+    margin-top: 30px;
+    
+}
+
+.card-hearder{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
+.card-body li{
+    text-decoration: none;
+    margin-top: 20px;
+    list-style-type: none;
+}
+
+#test{
+    margin-top: 80px;
+}
+.test-item{
+    color: yellow;
+}
+
+
+#end{
+    margin-top: 80px;
+}
+
+#end h2{
+    margin-top: 40px;
+}
+
+footer{
+    background-color: antiquewhite;
+    height: 60vh;
+}
+.head{
+    text-align: center;
+    padding-top: 30px;
+    font-style: italic;
+    
+}
+
+.icon-end{
+    font-size: 3rem;
+    margin-top: 50px;
+   text-align: center;
+}
